@@ -48,7 +48,7 @@ li a
 li#aus 
 {
 	position: relative;
-	right: -60%;
+	right: -55%;
 	font-size: 29px;
 	font-family:Milkshake;
 	border-radius: 25px;
@@ -57,7 +57,7 @@ li#aus
 li#sm 
 {
 	position: relative;
-	right: -50%;
+	right: -45%;
 	font-size: 29px;
 	font-family:Milkshake;
 	border-radius: 25px;
@@ -65,7 +65,7 @@ li#sm
 li#an 
 {
 	position: relative;
-	right: -55%;
+	right: -50%;
 	font-size: 29px;
 	font-family:Milkshake;
 	border-radius: 25px;
@@ -73,7 +73,7 @@ li#an
 li#home 
 {
 	position: relative;
-	right: -40%;
+	right: -35%;
 	font-size: 29px;
 	font-family:Milkshake;
 	border-radius: 25px;
@@ -81,7 +81,15 @@ li#home
 li#jobs 
 {
 	position: relative;
-	right: -45%;
+	right: -40%;
+	font-size: 29px;
+	font-family:Milkshake;
+	border-radius: 25px;
+}
+li#reel
+{
+	position: relative;
+	right: -59%;
 	font-size: 29px;
 	font-family:Milkshake;
 	border-radius: 25px;
