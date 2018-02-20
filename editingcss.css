@@ -120,20 +120,12 @@ iframe#vidtest
 {
 	display:inline-block;
 	box-shadow: 10px 10px 5px #888888;
-
+	
 }
 div#work 
 {
 	text-align:center;
 	
-}
-div#demoHolder
-{
-
-	position: relative;
-	right: -15%;
-	top: 26px;
-	width: 1290px;
 }
 /* footer */
 .footer-basic-centered{
